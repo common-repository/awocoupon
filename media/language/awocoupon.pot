@@ -1,0 +1,1032 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AwoCoupon 3.0.0\n"
+"POT-Creation-Date: 2017-08-19 07:33-0700\n"
+"PO-Revision-Date: 2017-08-19 07:37-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: admin/class-awocoupon-admin-admin.php:68
+msgid "Please enter a valid value"
+msgstr ""
+
+#: admin/class-awocoupon-admin-menu.php:45
+msgid "AwoCoupon"
+msgstr ""
+
+#: admin/class-awocoupon-admin-menu.php:49
+msgid "Dashboard"
+msgstr ""
+
+#: admin/class-awocoupon-admin-menu.php:50 admin/view/config/edit.php:55
+#: admin/view/dashboard/default.php:64
+msgid "Configuration"
+msgstr ""
+
+#: admin/class-awocoupon-admin-menu.php:51 admin/view/about/default.php:17
+msgid "About"
+msgstr ""
+
+#: admin/class-awocoupon-admin-menu.php:55
+#: admin/class-awocoupon-admin-menu.php:60
+#: admin/class-awocoupon-admin-menu.php:70 admin/view/config/edit.php:85
+#: admin/view/config/edit.php:100 admin/view/coupon/edit.php:36
+#: admin/view/coupon/list.php:20 admin/view/dashboard/default.php:62
+#: admin/view/history/coupon.php:19 helper/class-awocoupon-helper-hook.php:100
+#: helper/class-awocoupon-helper-hook.php:120
+msgid "Coupons"
+msgstr ""
+
+#: admin/class-awocoupon-admin-menu.php:59 admin/view/dashboard/default.php:61
+msgid "New Coupon"
+msgstr ""
+
+#: admin/class-awocoupon-admin-menu.php:61 admin/view/config/edit.php:97
+#: admin/view/couponauto/list.php:19
+msgid "Automatic Discounts"
+msgstr ""
+
+#: admin/class-awocoupon-admin-menu.php:62 admin/view/coupon/generate.php:17
+msgid "Generate Coupons"
+msgstr ""
+
+#: admin/class-awocoupon-admin-menu.php:66
+#: admin/class/class-awocoupon-admin-class-coupon.php:43
+#: admin/view/coupon/detail.php:149 admin/view/dashboard/default.php:63
+#: admin/view/history/coupon.php:19 admin/view/history/couponedit.php:41
+msgid "History of Uses"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:39
+#: admin/class/class-awocoupon-admin-class-couponauto.php:39
+#: admin/class/history/class-awocoupon-admin-class-history-coupon.php:38
+#: admin/class/history/class-awocoupon-admin-class-history-coupon.php:374
+#: admin/view/coupon/detail.php:65 admin/view/coupon/edit.php:478
+#: admin/view/history/coupon.php:39 admin/view/history/couponedit.php:56
+#: public/class/class-awocoupon-public-class-coupon.php:25
+msgid "Coupon Code"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:40
+#: admin/class/class-awocoupon-admin-class-coupon.php:775
+#: admin/class/class-awocoupon-admin-class-couponauto.php:40
+#: admin/view/coupon/detail.php:79 admin/view/coupon/list.php:46
+#: admin/view/history/coupon.php:52
+msgid "Function Type"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:41
+#: admin/class/class-awocoupon-admin-class-coupon.php:757
+#: admin/class/class-awocoupon-admin-class-coupon.php:769
+#: admin/class/class-awocoupon-admin-class-couponauto.php:42
+#: admin/view/coupon/detail.php:98 admin/view/coupon/edit.php:515
+#: admin/view/coupon/edit.php:1063
+#: public/class/class-awocoupon-public-class-coupon.php:27
+msgid "Value"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:42
+#: admin/class/class-awocoupon-admin-class-coupon.php:779
+#: admin/class/class-awocoupon-admin-class-coupon.php:782
+#: admin/class/class-awocoupon-admin-class-couponauto.php:43
+#: admin/view/coupon/detail.php:83
+msgid "Number of Uses"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:44
+#: admin/class/class-awocoupon-admin-class-coupon.php:785
+#: admin/view/coupon/detail.php:103 admin/view/coupon/edit.php:587
+msgid "Minimum Value"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:45
+#: admin/class/class-awocoupon-admin-class-coupon.php:765
+#: admin/class/class-awocoupon-admin-class-coupon.php:772
+#: admin/class/class-awocoupon-admin-class-couponauto.php:44
+#: admin/view/coupon/detail.php:93 admin/view/coupon/edit.php:636
+#: admin/view/coupon/list.php:62 admin/view/history/coupon.php:68
+msgid "Discount Type"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:46
+#: admin/class/class-awocoupon-admin-class-coupon.php:792
+#: admin/class/class-awocoupon-admin-class-coupon.php:799
+#: admin/class/class-awocoupon-admin-class-coupon.php:832
+#: admin/view/coupon/detail.php:130 admin/view/coupon/edit.php:499
+#: public/class/class-awocoupon-public-class-coupon.php:28
+msgid "Start Date"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:47
+#: admin/class/class-awocoupon-admin-class-coupon.php:809
+#: admin/class/class-awocoupon-admin-class-coupon.php:816
+#: admin/class/class-awocoupon-admin-class-coupon.php:832
+#: admin/view/coupon/detail.php:135 admin/view/coupon/edit.php:507
+#: public/class/class-awocoupon-public-class-coupon.php:29
+msgid "Expiration"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:48
+msgid "Assets"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:49
+#: admin/class/class-awocoupon-admin-class-coupon.php:842
+#: admin/view/config/edit.php:217 admin/view/config/edit.php:220
+#: admin/view/coupon/detail.php:76 admin/view/coupon/detail.php:174
+#: admin/view/coupon/edit.php:486
+msgid "State"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:50
+#: admin/class/class-awocoupon-admin-class-couponauto.php:47
+#: admin/class/history/class-awocoupon-admin-class-history-coupon.php:47
+#: admin/view/coupon/detail.php:170 admin/view/coupon/edit.php:728
+#: admin/view/coupon/edit.php:734 admin/view/coupon/edit.php:748
+msgid "ID"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:82
+msgid "Detail"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:83
+msgid "Edit"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:84
+#: admin/class/class-awocoupon-admin-class-couponauto.php:76
+#: admin/class/history/class-awocoupon-admin-class-history-coupon.php:78
+#: admin/view/coupon/list.php:36 admin/view/couponauto/list.php:35
+#: admin/view/history/coupon.php:33
+msgid "Delete"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:85
+msgid "Duplicate"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:144
+#: admin/class/class-awocoupon-admin-class-couponauto.php:133
+#: admin/view/coupon/detail.php:35
+msgid "Unlimited"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:245
+#: admin/class/class-awocoupon-admin-class-couponauto.php:46
+#: admin/class/class-awocoupon-admin-class-couponauto.php:167
+#: admin/class/class-awocoupon-admin-class-couponauto.php:321
+#: admin/view/coupon/detail.php:26 admin/view/coupon/detail.php:198
+#: admin/view/couponauto/edit.php:64
+#: helper/class-awocoupon-helper-helper.php:48
+#: helper/class-awocoupon-helper-helper.php:52
+msgid "Published"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:249
+#: admin/view/coupon/list.php:71 helper/class-awocoupon-helper-helper.php:54
+msgid "Template"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:252
+#: admin/class/class-awocoupon-admin-class-couponauto.php:171
+#: admin/view/coupon/detail.php:32 admin/view/coupon/detail.php:204
+#: helper/class-awocoupon-helper-helper.php:49
+#: helper/class-awocoupon-helper-helper.php:53
+msgid "Unpublished"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:558
+#: admin/class/class-awocoupon-admin-class-couponauto.php:282
+#: admin/class/history/class-awocoupon-admin-class-history-coupon.php:326
+msgid "Unable to bind item"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:741
+#: admin/class/class-awocoupon-admin-class-couponauto.php:318
+#: admin/class/history/class-awocoupon-admin-class-history-coupon.php:378
+#: admin/view/coupon/edit.php:49 admin/view/couponauto/edit.php:56
+#: helper/class-awocoupon-helper-helper.php:22
+#: helper/class-awocoupon-helper-helper.php:35
+msgid "Coupon"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:741
+#: admin/class/class-awocoupon-admin-class-coupon.php:750
+#: admin/class/class-awocoupon-admin-class-coupon.php:757
+#: admin/class/class-awocoupon-admin-class-coupon.php:761
+#: admin/class/class-awocoupon-admin-class-coupon.php:765
+#: admin/class/class-awocoupon-admin-class-coupon.php:769
+#: admin/class/class-awocoupon-admin-class-coupon.php:772
+#: admin/class/class-awocoupon-admin-class-coupon.php:775
+#: admin/class/class-awocoupon-admin-class-coupon.php:779
+#: admin/class/class-awocoupon-admin-class-coupon.php:782
+#: admin/class/class-awocoupon-admin-class-coupon.php:785
+#: admin/class/class-awocoupon-admin-class-coupon.php:792
+#: admin/class/class-awocoupon-admin-class-coupon.php:799
+#: admin/class/class-awocoupon-admin-class-coupon.php:809
+#: admin/class/class-awocoupon-admin-class-coupon.php:816
+#: admin/class/class-awocoupon-admin-class-coupon.php:832
+#: admin/class/class-awocoupon-admin-class-coupon.php:842
+#: admin/class/class-awocoupon-admin-class-couponauto.php:321
+#: admin/class/history/class-awocoupon-admin-class-history-coupon.php:368
+#: admin/class/history/class-awocoupon-admin-class-history-coupon.php:374
+#: admin/class/history/class-awocoupon-admin-class-history-coupon.php:381
+#: admin/class/history/class-awocoupon-admin-class-history-coupon.php:384
+#: admin/class/history/class-awocoupon-admin-class-history-coupon.php:387
+#: admin/class/history/class-awocoupon-admin-class-history-coupon.php:390
+msgid "please enter a valid value"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:745
+msgid "Error"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:750
+#: admin/view/coupon/detail.php:88
+msgid "Percent or Amount"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:761
+#: admin/view/coupon/edit.php:1032
+msgid "Value Definition"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:779
+#: helper/class-awocoupon-helper-helper.php:75
+msgid "Total"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:782
+msgid "per Customer"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:836
+#: admin/class/class-awocoupon-admin-class-coupon.php:839
+msgid "Invalid"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:848
+#: admin/class/class-awocoupon-admin-class-coupon.php:853
+msgid "That coupon code already exists. Please try again"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:858
+msgid "Please select at least one asset for discount type of specific"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:875
+msgid "Coupon template not found"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-coupon.php:893
+msgid "No copies selected"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-couponauto.php:41
+#: public/class/class-awocoupon-public-class-coupon.php:26
+msgid "Value Type"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-couponauto.php:45
+#: admin/view/coupon/edit.php:1044 helper/class-awocoupon-helper-coupon.php:183
+msgid "Ordering"
+msgstr ""
+
+#: admin/class/class-awocoupon-admin-class-couponauto.php:318
+msgid "Select an Item"
+msgstr ""
+
+#: admin/class/history/class-awocoupon-admin-class-history-coupon.php:39
+#: admin/class/history/class-awocoupon-admin-class-history-coupon.php:384
+#: admin/view/history/coupon.php:43 admin/view/history/couponedit.php:70
+msgid "E-mail"
+msgstr ""
+
+#: admin/class/history/class-awocoupon-admin-class-history-coupon.php:40
+msgid "UserID"
+msgstr ""
+
+#: admin/class/history/class-awocoupon-admin-class-history-coupon.php:41
+#: admin/class/history/class-awocoupon-admin-class-history-coupon.php:381
+#: admin/view/coupon/edit.php:45 admin/view/history/coupon.php:40
+#: admin/view/history/couponedit.php:63
+msgid "Username"
+msgstr ""
+
+#: admin/class/history/class-awocoupon-admin-class-history-coupon.php:42
+#: admin/view/coupon/edit.php:43 admin/view/history/coupon.php:41
+msgid "Last Name"
+msgstr ""
+
+#: admin/class/history/class-awocoupon-admin-class-history-coupon.php:43
+#: admin/view/coupon/edit.php:44 admin/view/history/coupon.php:42
+msgid "First Name"
+msgstr ""
+
+#: admin/class/history/class-awocoupon-admin-class-history-coupon.php:44
+#: admin/class/history/class-awocoupon-admin-class-history-coupon.php:387
+#: admin/class/history/class-awocoupon-admin-class-history-coupon.php:390
+#: admin/view/history/couponedit.php:76 admin/view/history/couponedit.php:82
+#: library/class-awocoupon-library-coupon.php:1603
+#: library/class-awocoupon-library-coupon.php:1655
+msgid "Discount"
+msgstr ""
+
+#: admin/class/history/class-awocoupon-admin-class-history-coupon.php:45
+#: admin/class/history/class-awocoupon-admin-class-history-coupon.php:368
+#: admin/view/history/coupon.php:44 admin/view/history/couponedit.php:88
+msgid "Order Number"
+msgstr ""
+
+#: admin/class/history/class-awocoupon-admin-class-history-coupon.php:46
+#: admin/view/history/coupon.php:45
+msgid "Order Date"
+msgstr ""
+
+#: admin/class/history/class-awocoupon-admin-class-history-coupon.php:378
+msgid "please make a selection"
+msgstr ""
+
+#: admin/class/history/class-awocoupon-admin-class-history-coupon.php:387
+#: admin/view/coupon/edit.php:37 admin/view/coupon/edit.php:47
+#: admin/view/coupon/edit.php:418 admin/view/coupon/edit.php:633
+#: admin/view/coupon/edit.php:653 admin/view/history/couponedit.php:76
+#: helper/class-awocoupon-helper-helper.php:30
+msgid "Product"
+msgstr ""
+
+#: admin/class/history/class-awocoupon-admin-class-history-coupon.php:390
+#: admin/view/coupon/edit.php:38 admin/view/coupon/edit.php:424
+#: admin/view/coupon/edit.php:801 admin/view/coupon/edit.php:804
+#: admin/view/history/couponedit.php:82
+#: helper/class-awocoupon-helper-helper.php:23
+#: helper/class-awocoupon-helper-helper.php:34
+msgid "Shipping"
+msgstr ""
+
+#: admin/controller/class-awocoupon-admin-controller-config.php:70
+msgid "Yes"
+msgstr ""
+
+#: admin/controller/class-awocoupon-admin-controller-config.php:72
+msgid "No"
+msgstr ""
+
+#: admin/controller/class-awocoupon-admin-controller-coupon.php:119
+#: admin/controller/class-awocoupon-admin-controller-coupon.php:128
+#: admin/controller/class-awocoupon-admin-controller-couponauto.php:73
+#: admin/controller/class-awocoupon-admin-controller-couponauto.php:82
+msgid "Item(s) published"
+msgstr ""
+
+#: admin/controller/class-awocoupon-admin-controller-coupon.php:137
+#: admin/controller/class-awocoupon-admin-controller-coupon.php:146
+#: admin/controller/class-awocoupon-admin-controller-couponauto.php:91
+#: admin/controller/class-awocoupon-admin-controller-couponauto.php:100
+msgid "Item(s) unpublished"
+msgstr ""
+
+#: admin/controller/class-awocoupon-admin-controller-coupon.php:155
+#: admin/controller/class-awocoupon-admin-controller-coupon.php:164
+#: admin/controller/class-awocoupon-admin-controller-couponauto.php:109
+#: admin/controller/class-awocoupon-admin-controller-couponauto.php:118
+#: admin/controller/class-awocoupon-admin-controller-history.php:79
+#: admin/controller/class-awocoupon-admin-controller-history.php:88
+msgid "Item(s) deleted"
+msgstr ""
+
+#: admin/controller/class-awocoupon-admin-controller-coupon.php:175
+msgid "Could not duplicate coupon"
+msgstr ""
+
+#: admin/controller/class-awocoupon-admin-controller-coupon.php:177
+msgid "Coupon code"
+msgstr ""
+
+#: admin/view/about/default.php:31
+msgid "AwoCoupon is created by Seyi Awofadeju."
+msgstr ""
+
+#: admin/view/about/default.php:32
+msgid ""
+"Please visit http://awodev.com to find out "
+"more about us."
+msgstr ""
+
+#: admin/view/about/default.php:40
+msgid "Version"
+msgstr ""
+
+#: admin/view/config/edit.php:68 admin/view/config/edit.php:239
+#: admin/view/coupon/edit.php:395 admin/view/coupon/edit.php:1017
+msgid "Apply"
+msgstr ""
+
+#: admin/view/config/edit.php:69 admin/view/config/edit.php:240
+#: admin/view/coupon/edit.php:396 admin/view/coupon/edit.php:1018
+#: admin/view/coupon/generate.php:46 admin/view/coupon/generate.php:72
+#: admin/view/couponauto/edit.php:50 admin/view/couponauto/edit.php:80
+#: admin/view/history/couponedit.php:50 admin/view/history/couponedit.php:97
+msgid "Save"
+msgstr ""
+
+#: admin/view/config/edit.php:74 admin/view/coupon/detail.php:21
+msgid "General"
+msgstr ""
+
+#: admin/view/config/edit.php:75
+msgid "Multiple Coupons"
+msgstr ""
+
+#: admin/view/config/edit.php:76
+msgid "Triggers"
+msgstr ""
+
+#: admin/view/config/edit.php:77
+msgid "Coupon Code Error Description"
+msgstr ""
+
+#: admin/view/config/edit.php:83
+msgid "Enable Store Coupons"
+msgstr ""
+
+#: admin/view/config/edit.php:84
+msgid "Case Sensitive Coupon Code"
+msgstr ""
+
+#: admin/view/config/edit.php:85
+msgid "Calculate the discount before tax"
+msgstr ""
+
+#: admin/view/config/edit.php:86
+msgid "Enable zero value coupon"
+msgstr ""
+
+#: admin/view/config/edit.php:87
+msgid "Enable negative value coupon"
+msgstr ""
+
+#: admin/view/config/edit.php:93
+msgid "Activate"
+msgstr ""
+
+#: admin/view/config/edit.php:94
+#: library/pagination/class-awocoupon-library-pagination-base.php:308
+msgid "All"
+msgstr ""
+
+#: admin/view/config/edit.php:94 admin/view/config/edit.php:97
+#: admin/view/config/edit.php:100
+msgid "Max"
+msgstr ""
+
+#: admin/view/config/edit.php:103
+msgid "Apply only one discount per product"
+msgstr ""
+
+#: admin/view/config/edit.php:111
+msgid "Restore coupon's number of uses if order is not processed"
+msgstr ""
+
+#: admin/view/config/edit.php:127
+msgid "Delete expired coupons x days after expiration"
+msgstr ""
+
+#: admin/view/config/edit.php:135
+msgid "Debug"
+msgstr ""
+
+#: admin/view/config/edit.php:136
+msgid "Clear"
+msgstr ""
+
+#: admin/view/config/edit.php:143
+msgid "No record, unpublished or expired"
+msgstr ""
+
+#: admin/view/config/edit.php:146
+msgid "Minimum value not reached"
+msgstr ""
+
+#: admin/view/config/edit.php:149
+msgid "Minimum product quantity not reached"
+msgstr ""
+
+#: admin/view/config/edit.php:152
+msgid "Customer not logged in"
+msgstr ""
+
+#: admin/view/config/edit.php:155
+msgid "Customer not on customer list"
+msgstr ""
+
+#: admin/view/config/edit.php:158
+msgid "Customer not on shopper group list"
+msgstr ""
+
+#: admin/view/config/edit.php:161
+msgid "Per user: already used coupon max number of times"
+msgstr ""
+
+#: admin/view/config/edit.php:164
+msgid "Total: already used coupon max number of times"
+msgstr ""
+
+#: admin/view/config/edit.php:167
+msgid "(include) Product(s) not on product list"
+msgstr ""
+
+#: admin/view/config/edit.php:170
+msgid "(exclude) Product(s) on product list"
+msgstr ""
+
+#: admin/view/config/edit.php:173
+msgid "(include) Product(s) not on category list"
+msgstr ""
+
+#: admin/view/config/edit.php:176
+msgid "(exclude) Product(s) on category list"
+msgstr ""
+
+#: admin/view/config/edit.php:193
+msgid "No shipping selected"
+msgstr ""
+
+#: admin/view/config/edit.php:196
+msgid "No valid shipping selected"
+msgstr ""
+
+#: admin/view/config/edit.php:199
+msgid "(include) Selected shipping not on shipping list"
+msgstr ""
+
+#: admin/view/config/edit.php:202
+msgid "(exclude) Selected shipping on shipping list"
+msgstr ""
+
+#: admin/view/config/edit.php:205
+msgid "Coupon value definition, threshold not reached"
+msgstr ""
+
+#: admin/view/config/edit.php:208
+msgid "(exclude) Discounted Products"
+msgstr ""
+
+#: admin/view/config/edit.php:211 admin/view/config/edit.php:217
+#: admin/view/config/edit.php:223 admin/view/coupon/detail.php:213
+#: admin/view/coupon/edit.php:53 admin/view/coupon/edit.php:670
+#: admin/view/coupon/edit.php:682 admin/view/coupon/edit.php:776
+#: admin/view/coupon/edit.php:818 admin/view/coupon/edit.php:853
+#: admin/view/coupon/edit.php:882 admin/view/coupon/edit.php:911
+#: admin/view/coupon/edit.php:942 admin/view/coupon/edit.php:969
+#: helper/class-awocoupon-helper-helper.php:26
+msgid "Include"
+msgstr ""
+
+#: admin/view/config/edit.php:211 admin/view/config/edit.php:214
+#: admin/view/coupon/edit.php:894 helper/class-awocoupon-helper-helper.php:36
+msgid "Country"
+msgstr ""
+
+#: admin/view/config/edit.php:214 admin/view/config/edit.php:220
+#: admin/view/config/edit.php:226 admin/view/coupon/detail.php:140
+#: admin/view/coupon/detail.php:216 admin/view/coupon/edit.php:54
+#: admin/view/coupon/edit.php:674 admin/view/coupon/edit.php:686
+#: admin/view/coupon/edit.php:777 admin/view/coupon/edit.php:821
+#: admin/view/coupon/edit.php:856 admin/view/coupon/edit.php:885
+#: admin/view/coupon/edit.php:914 admin/view/coupon/edit.php:945
+#: admin/view/coupon/edit.php:972 helper/class-awocoupon-helper-helper.php:27
+msgid "Exclude"
+msgstr ""
+
+#: admin/view/config/edit.php:223 admin/view/config/edit.php:226
+#: admin/view/coupon/edit.php:953 helper/class-awocoupon-helper-helper.php:38
+msgid "Payment Method"
+msgstr ""
+
+#: admin/view/coupon/detail.php:29 admin/view/coupon/detail.php:201
+msgid "Coupon template"
+msgstr ""
+
+#: admin/view/coupon/detail.php:57
+msgid "Specials"
+msgstr ""
+
+#: admin/view/coupon/detail.php:60
+msgid "Discounted"
+msgstr ""
+
+#: admin/view/coupon/detail.php:68
+msgid "Secret Key"
+msgstr ""
+
+#: admin/view/coupon/detail.php:72 admin/view/coupon/edit.php:993
+msgid "UPC"
+msgstr ""
+
+#: admin/view/coupon/detail.php:108 admin/view/coupon/edit.php:601
+msgid "Minimum Product Quantity"
+msgstr ""
+
+#: admin/view/coupon/detail.php:114
+msgid "Maximum Discount Qty"
+msgstr ""
+
+#: admin/view/coupon/detail.php:119
+msgid "BuyX"
+msgstr ""
+
+#: admin/view/coupon/detail.php:124
+msgid "GetY"
+msgstr ""
+
+#: admin/view/coupon/detail.php:145 admin/view/coupon/edit.php:1000
+msgid "Admin Note"
+msgstr ""
+
+#: admin/view/coupon/detail.php:171 admin/view/coupon/edit.php:663
+#: admin/view/coupon/edit.php:750
+msgid "Mode"
+msgstr ""
+
+#: admin/view/coupon/detail.php:172 admin/view/coupon/edit.php:40
+msgid "Asset"
+msgstr ""
+
+#: admin/view/coupon/edit.php:35 admin/view/coupon/edit.php:709
+#: admin/view/coupon/edit.php:716
+msgid "Add"
+msgstr ""
+
+#: admin/view/coupon/edit.php:39 admin/view/coupon/edit.php:729
+#: admin/view/coupon/edit.php:735 admin/view/coupon/edit.php:751
+msgid "Name"
+msgstr ""
+
+#: admin/view/coupon/edit.php:41 layout/pagination/links.php:47
+msgid "Display #"
+msgstr ""
+
+#: admin/view/coupon/edit.php:42
+msgid "Shipping Module"
+msgstr ""
+
+#: admin/view/coupon/edit.php:48 admin/view/coupon/edit.php:654
+#: helper/class-awocoupon-helper-helper.php:31
+msgid "Category"
+msgstr ""
+
+#: admin/view/coupon/edit.php:50
+msgid "Vendor"
+msgstr ""
+
+#: admin/view/coupon/edit.php:51
+msgid "manufacturer"
+msgstr ""
+
+#: admin/view/coupon/edit.php:387
+msgid "Add New Coupon"
+msgstr ""
+
+#: admin/view/coupon/edit.php:387
+msgid "Edit Coupon"
+msgstr ""
+
+#: admin/view/coupon/edit.php:407 admin/view/coupon/edit.php:475
+msgid "Coupon Details"
+msgstr ""
+
+#: admin/view/coupon/edit.php:412 admin/view/coupon/edit.php:559
+msgid "Optional Fields"
+msgstr ""
+
+#: admin/view/coupon/edit.php:430 admin/view/coupon/edit.php:831
+msgid "Other Restrictions"
+msgstr ""
+
+#: admin/view/coupon/edit.php:436 admin/view/coupon/edit.php:983
+msgid "Administration"
+msgstr ""
+
+#: admin/view/coupon/edit.php:481
+msgid "Generate Code"
+msgstr ""
+
+#: admin/view/coupon/edit.php:548
+msgid "Maximum Discount Amount"
+msgstr ""
+
+#: admin/view/coupon/edit.php:562
+msgid "Individual use only"
+msgstr ""
+
+#: admin/view/coupon/edit.php:570
+msgid "Number of Uses Total"
+msgstr ""
+
+#: admin/view/coupon/edit.php:579
+msgid "Number of Uses per Customer"
+msgstr ""
+
+#: admin/view/coupon/edit.php:615
+msgid "Exclude Products on Special"
+msgstr ""
+
+#: admin/view/coupon/edit.php:622
+msgid "Exclude Discounted Products"
+msgstr ""
+
+#: admin/view/coupon/edit.php:649 admin/view/coupon/edit.php:749
+msgid "Type"
+msgstr ""
+
+#: admin/view/coupon/edit.php:706 admin/view/coupon/edit.php:714
+#: admin/view/coupon/list.php:41 admin/view/couponauto/list.php:40
+#: admin/view/history/coupon.php:47
+msgid "Search"
+msgstr ""
+
+#: admin/view/coupon/edit.php:719 admin/view/coupon/edit.php:740
+msgid "Ctrl/Shift Key"
+msgstr ""
+
+#: admin/view/coupon/edit.php:834 helper/class-awocoupon-helper-helper.php:39
+msgid "Customer"
+msgstr ""
+
+#: admin/view/coupon/edit.php:864 helper/class-awocoupon-helper-helper.php:40
+msgid "User Group"
+msgstr ""
+
+#: admin/view/coupon/edit.php:923 helper/class-awocoupon-helper-helper.php:37
+msgid "State/Province"
+msgstr ""
+
+#: admin/view/coupon/edit.php:986 admin/view/coupon/list.php:81
+#: admin/view/history/coupon.php:77
+msgid "Tag"
+msgstr ""
+
+#: admin/view/coupon/edit.php:1038
+msgid "Process Type"
+msgstr ""
+
+#: admin/view/coupon/edit.php:1040
+msgid "Progressive"
+msgstr ""
+
+#: admin/view/coupon/edit.php:1041
+msgid "Step"
+msgstr ""
+
+#: admin/view/coupon/edit.php:1054 helper/class-awocoupon-helper-coupon.php:186
+msgid "Apply Distinct Count"
+msgstr ""
+
+#: admin/view/coupon/edit.php:1062
+msgid "Number of Products"
+msgstr ""
+
+#: admin/view/coupon/edit.php:1083
+msgid "Add New Entry"
+msgstr ""
+
+#: admin/view/coupon/edit.php:1086
+msgid "Submit"
+msgstr ""
+
+#: admin/view/coupon/generate.php:52
+msgid "Select Coupon Template"
+msgstr ""
+
+#: admin/view/coupon/generate.php:61
+msgid "Copies"
+msgstr ""
+
+#: admin/view/coupon/generate.php:63
+msgid "Number"
+msgstr ""
+
+#: admin/view/coupon/generate.php:64
+msgid "OR"
+msgstr ""
+
+#: admin/view/coupon/generate.php:65
+msgid "Coupon codes (one per line)"
+msgstr ""
+
+#: admin/view/coupon/list.php:21 admin/view/couponauto/list.php:20
+#: admin/view/history/coupon.php:20
+msgid "Add New"
+msgstr ""
+
+#: admin/view/coupon/list.php:33 admin/view/couponauto/list.php:32
+#: admin/view/history/coupon.php:32
+msgid "Bulk Actions"
+msgstr ""
+
+#: admin/view/coupon/list.php:34 admin/view/couponauto/list.php:33
+msgid "Publish"
+msgstr ""
+
+#: admin/view/coupon/list.php:35 admin/view/couponauto/list.php:34
+msgid "Unpublish"
+msgstr ""
+
+#: admin/view/coupon/list.php:54 admin/view/history/coupon.php:60
+#: helper/class-awocoupon-helper-helper.php:57
+msgid "Percent"
+msgstr ""
+
+#: admin/view/coupon/list.php:90 admin/view/couponauto/list.php:47
+#: admin/view/history/coupon.php:86
+msgid "Status"
+msgstr ""
+
+#: admin/view/coupon/list.php:137
+msgid "Close"
+msgstr ""
+
+#: admin/view/couponauto/edit.php:41
+msgid "Add Automatic Discount"
+msgstr ""
+
+#: admin/view/dashboard/default.php:114
+msgid "General Statistics"
+msgstr ""
+
+#: admin/view/dashboard/default.php:115
+msgid "Total Coupons"
+msgstr ""
+
+#: admin/view/dashboard/default.php:116
+msgid "Active Coupons"
+msgstr ""
+
+#: admin/view/dashboard/default.php:117
+msgid "Inactive Coupons"
+msgstr ""
+
+#: admin/view/dashboard/default.php:118
+msgid "Template Coupons"
+msgstr ""
+
+#: helper/class-awocoupon-helper-coupon.php:197
+#, php-format
+msgid "%1$s- item(s) >> exclude from discount"
+msgstr ""
+
+#: helper/class-awocoupon-helper-coupon.php:198
+#, php-format
+msgid "%1$s+ item(s) >> exclude from discount"
+msgstr ""
+
+#: helper/class-awocoupon-helper-coupon.php:201
+#, php-format
+msgid "%1$s+ item(s) >> total discount %2$s"
+msgstr ""
+
+#: helper/class-awocoupon-helper-coupon.php:223
+#, php-format
+msgid "%1$s to %2$s item(s) >> discount %3$s"
+msgstr ""
+
+#: helper/class-awocoupon-helper-helper.php:43
+msgid "First found match"
+msgstr ""
+
+#: helper/class-awocoupon-helper-helper.php:44
+msgid "Lowest value"
+msgstr ""
+
+#: helper/class-awocoupon-helper-helper.php:45
+msgid "Highest value"
+msgstr ""
+
+#: helper/class-awocoupon-helper-helper.php:58
+msgid "Amount"
+msgstr ""
+
+#: helper/class-awocoupon-helper-helper.php:59
+msgid "Amount per item"
+msgstr ""
+
+#: helper/class-awocoupon-helper-helper.php:62
+#: helper/class-awocoupon-helper-helper.php:66
+#: helper/class-awocoupon-helper-helper.php:71
+msgid "Overall"
+msgstr ""
+
+#: helper/class-awocoupon-helper-helper.php:63
+#: helper/class-awocoupon-helper-helper.php:67
+#: helper/class-awocoupon-helper-helper.php:72
+msgid "Specific"
+msgstr ""
+
+#: helper/class-awocoupon-helper-helper.php:68
+msgid "Specific no tax"
+msgstr ""
+
+#: helper/class-awocoupon-helper-helper.php:76
+msgid "Per customer"
+msgstr ""
+
+#: helper/class-awocoupon-helper-helper.php:79
+msgid "Days"
+msgstr ""
+
+#: helper/class-awocoupon-helper-helper.php:80
+msgid "Months"
+msgstr ""
+
+#: helper/class-awocoupon-helper-helper.php:81
+msgid "Years"
+msgstr ""
+
+#: helper/class-awocoupon-helper-helper.php:84
+msgid "Active"
+msgstr ""
+
+#: helper/class-awocoupon-helper-helper.php:85
+msgid "Inactive"
+msgstr ""
+
+#: helper/class-awocoupon-helper-helper.php:86
+msgid "Used"
+msgstr ""
+
+#: helper/class-awocoupon-helper-hook.php:76
+msgid "Settings"
+msgstr ""
+
+#: helper/estore/woocommerce/class-awocoupon-helper-estore-woocommerce-coupon.php:37
+msgid "Coupon not found"
+msgstr ""
+
+#: helper/estore/woocommerce/class-awocoupon-helper-estore-woocommerce-helper.php:295
+#: helper/estore/woocommerce/class-awocoupon-helper-estore-woocommerce-helper.php:297
+msgid "Unknown"
+msgstr ""
+
+#: helper/estore/woocommerce/class-awocoupon-helper-estore-woocommerce-helper.php:300
+msgid "Rest of the World"
+msgstr ""
+
+#: layout/pagination/link.php:21
+#: library/pagination/class-awocoupon-library-pagination-base.php:620
+msgid "Start"
+msgstr ""
+
+#: layout/pagination/link.php:28
+#: library/pagination/class-awocoupon-library-pagination-base.php:623
+msgid "Prev"
+msgstr ""
+
+#: layout/pagination/link.php:29
+msgid "Previous"
+msgstr ""
+
+#: layout/pagination/link.php:36
+#: library/pagination/class-awocoupon-library-pagination-base.php:639
+msgid "Next"
+msgstr ""
+
+#: layout/pagination/link.php:43
+#: library/pagination/class-awocoupon-library-pagination-base.php:642
+msgid "End"
+msgstr ""
+
+#: library/class-awocoupon-library-class.php:160
+msgid "Show more details"
+msgstr ""
+
+#: library/pagination/class-awocoupon-library-pagination-base.php:174
+#, php-format
+msgid "Page %s of %s"
+msgstr ""
+
+#: library/pagination/class-awocoupon-library-pagination-base.php:199
+#, php-format
+msgid "Results %s - %s of %s"
+msgstr ""
+
+#: library/pagination/class-awocoupon-library-pagination-base.php:202
+msgid "No records found."
+msgstr ""
+
+#: library/pagination/class-awocoupon-library-pagination-base.php:306
+msgid "50"
+msgstr ""
+
+#: library/pagination/class-awocoupon-library-pagination-base.php:307
+msgid "100"
+msgstr ""
+
+#: library/pagination/class-awocoupon-library-pagination-base.php:611
+msgid "View All"
+msgstr ""
